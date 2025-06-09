@@ -70,7 +70,7 @@ El sistema incorpora dos roles principales con diferentes niveles de acceso:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO_GITHUB/gestion-serviciostaxi-pruebas.git](https://github.com/TU_USUARIO_GITHUB/NOMBRE_DEL_REPOSITORIO.git)
+    git clone [https://github.com/lenny0903/gestion-serviciostaxi-pruebas.git](https://github.com/lenny0903/gestion-serviciostaxi-pruebas.git)
     ```
 2.  **Navegar al Directorio del Proyecto:**
     ```bash
